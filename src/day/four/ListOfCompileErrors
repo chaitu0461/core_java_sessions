@@ -1,0 +1,4 @@
+Cannot resolve symbol 'localVaribale'
+Variable 'localVaribale' might not have been initialized
+Variable 'a' is already defined in the scope
+Operator '&&' cannot be applied to 'int', 'boolean'

@@ -1,0 +1,9 @@
+Non-static method 'instanceMethod()' cannot be referenced from a static context
+Unreachable statement
+Missing return statement
+'parentVariable' has private access in 'day.five.inhertence.Parent'
+
+Required type:
+String
+Provided:
+Integer

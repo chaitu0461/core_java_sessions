@@ -1,7 +1,7 @@
 package day.two.countries;
 
 
-import practice.day.two.enemies.Pakistan;
+import day.two.enemies.Pakistan;
 
 public class India {
     String countryName="india";
