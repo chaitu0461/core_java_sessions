@@ -1,0 +1,9 @@
+Method does not override method from its superclass
+attempting to assign weaker access privileges ('private'); was 'public'
+3)
+Required type:
+Father
+Provided:
+Object
+
+4) 'overLoadedMethod(int)' is already defined in 'day.six.overloading.OverLoading'

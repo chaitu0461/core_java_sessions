@@ -1,0 +1,40 @@
+Overriding Rules
+===========
+1. There should be parent child relation ship
+2. Method name, arguments , method return types should be same in child class
+3.child class cannot decrease visibility of parent (access modifiers related)
+4. Child class can either have same return type or a subclass return type
+
+visibility order
+public>protected>private
+
+Over Loading Rules
+=======================
+1. Here parent child relation ship is optional
+2. We can overload in the same class
+rule 1: return type should be same
+rule 2: method argument data type or number of method arguments should be different
+
+Object Class
+==============
+It is the parent of every object in java
+Object class has some methods . Every class inherits the method
+Two of the important method is equals and hash code
+equals is used for checking equality of two objects
+toString method .. it is used to give the string representation of object
+by default , the toString method gives Object@hashcode
+whenever you call System.out.println(object variable), objects to string method will be called
+you can override your own toString method
+
+Some predefined classes in java have overridden tostring method
+
+googling 
+=========
+find out what are the other object methods
+
+exercise
+==========
+try to simulate null pointer exception
+
+
+
