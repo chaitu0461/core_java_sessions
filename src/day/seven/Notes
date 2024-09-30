@@ -1,0 +1,13 @@
+Topics Covered
+===============
+run time behaviour of polymorphic methods
+what is super
+Constructors in inheritence
+static blocks and instance blocks
+order of execution of static and instance blocks in case of inheritence
+final keyword
+
+ exercise
+====================
+make a static method in final in parent. try to write same method in child . what happens?
+

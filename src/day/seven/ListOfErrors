@@ -1,0 +1,8 @@
+Call to 'super()' only allowed in constructor body
+super' cannot be referenced from a static context
+this' cannot be referenced from a static context
+There is no parameterless constructor available
+Variable 'i' might not have been initialized(2 scenarios)
+Cannot assign a value to final variable 'staticFinalVariable'
+'myFinalMethod()' cannot override 'myFinalMethod()' in 'day.seven.FinalDemo'; overridden method is final
+Cannot inherit from final 'day.seven.FinalDemo'

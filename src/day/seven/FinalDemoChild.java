@@ -1,2 +1,6 @@
-package day.seven;public class FinalDemoChild {
+package day.seven;
+
+public class FinalDemoChild extends FinalDemo{
+ /*   @Override
+    public void myFinalMethod(){}*/
 }
